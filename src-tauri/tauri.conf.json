@@ -14,6 +14,10 @@
         "label": "main",
         "width": 800,
         "height": 600
+      },
+      {
+        "label": "urlWin",
+        "visible": false
       }
     ],
     "security": {
