@@ -24,7 +24,6 @@ dist-ssr
 *.sln
 *.sw?
 
-package*.json
-src-tauri/icons
+package-lock.json
 src-tauri/gen
 Cargo.lock
